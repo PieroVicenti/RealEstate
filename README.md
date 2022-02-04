@@ -2,6 +2,10 @@
 
 Project aimed to represent a real estate agency website. 
 
+## Programming Languages
+
+React.js (Frontend), Node.js (Backend)
+
 ## Framework
 
 Next.js
