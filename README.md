@@ -8,5 +8,5 @@ Next.js
 
 ## API
 
-RapidApi.com 
+RapidApi.com is the website, which provides all the info related  to the properties.
 
