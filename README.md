@@ -1,6 +1,6 @@
 ## RealEstate
 
-Project aimed to represent a real estate agency website. 
+Project aimed to represent a real estate agency website in its full operations.
 
 ## Programming Languages
 
