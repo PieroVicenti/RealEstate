@@ -15,7 +15,8 @@ Next.js
 
 RapidApi.com is the website, which provides all the info related  to the properties.
 
-## Homepage
+## Homepage - Rent
 ![homepage1](https://user-images.githubusercontent.com/91989821/152847016-098626c8-1621-443c-a804-0eef6adabc09.png)
 
+## Homepage - Buy
 ![homepage2](https://user-images.githubusercontent.com/91989821/152847098-f4181770-e92c-4088-aed9-b8fb4f63afa1.png)
