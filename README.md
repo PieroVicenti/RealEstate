@@ -20,3 +20,7 @@ RapidApi.com is the website, which provides all the info related  to the propert
 
 ## Homepage - Buy
 ![homepage2](https://user-images.githubusercontent.com/91989821/152847098-f4181770-e92c-4088-aed9-b8fb4f63afa1.png)
+
+## Explore Rent section
+
+![exploreRenting](https://user-images.githubusercontent.com/91989821/152847220-bf90684e-71c4-4c9b-afbd-1ec5669ac634.png)
