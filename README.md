@@ -21,10 +21,10 @@ RapidApi.com is the website, that has been used for all the APIs requests and pr
 ## Homepage - Buy
 ![homepage2](https://user-images.githubusercontent.com/91989821/152847098-f4181770-e92c-4088-aed9-b8fb4f63afa1.png)
 
-## Explore Rent Section
+## Explore - Rent Section
 
 ![exploreRenting](https://user-images.githubusercontent.com/91989821/152847220-bf90684e-71c4-4c9b-afbd-1ec5669ac634.png)
 
-## Explore Buy Section 
+## Explore - Buy Section 
 
 ![exploreBuy](https://user-images.githubusercontent.com/91989821/152847309-41750db4-2997-41a5-8640-90eec34df44f.png)
