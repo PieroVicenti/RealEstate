@@ -1,6 +1,6 @@
 ## RealEstate
 
-Project aimed to represent a real estate agency website in its full operations.
+-Project aimed to represent a real estate agency website in its full operations.
 Pages: Homepage, Search page (the user can search both properties to rent &/or to buy), Rent page and, Buy properties page.
 
 ## Programming Languages
