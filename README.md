@@ -35,3 +35,5 @@ RapidApi.com is the website, that has been used for all the APIs requests and pr
 ## Explore - Buy Section 
 
 ![exploreBuy](https://user-images.githubusercontent.com/91989821/152847309-41750db4-2997-41a5-8640-90eec34df44f.png)
+
+##Displayed currency
