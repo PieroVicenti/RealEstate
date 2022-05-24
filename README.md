@@ -8,7 +8,7 @@ https://real-estate-aed.netlify.app/
 <br>
 -Pages: Homepage, Search page (the user can search both properties to rent &/or to buy), Rent page and, Buy properties page.
 
-## Programming Languages
+- ## Programming Languages
 
 -React.js (Frontend)
 <br>
