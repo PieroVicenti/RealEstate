@@ -16,7 +16,7 @@ https://real-estate-aed.netlify.app/
 
 - ## Framework
 
-Next.js
+-Next.js
 
 ## API
 
