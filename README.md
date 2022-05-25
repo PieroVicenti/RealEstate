@@ -18,7 +18,7 @@ https://real-estate-aed.netlify.app/
 
 -Next.js
 
-## API
+- ## API
 
 RapidApi.com is the website, that has been used for all the APIs requests and provides all the related displayed information about the properties (pictures included).
 
