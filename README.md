@@ -25,7 +25,7 @@ RapidApi.com is the website, that has been used for all the APIs requests and pr
 - ## Homepage - Rent
 ![homepage1](https://user-images.githubusercontent.com/91989821/152847016-098626c8-1621-443c-a804-0eef6adabc09.png)
 
-## Homepage - Buy
+- ## Homepage - Buy
 ![homepage2](https://user-images.githubusercontent.com/91989821/152847098-f4181770-e92c-4088-aed9-b8fb4f63afa1.png)
 
 ## Explore - Rent Section
