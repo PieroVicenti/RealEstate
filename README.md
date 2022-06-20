@@ -37,4 +37,4 @@ https://real-estate-aed.netlify.app/
 ![exploreBuy](https://user-images.githubusercontent.com/91989821/152847309-41750db4-2997-41a5-8640-90eec34df44f.png)
 
 - ## Displayed currency
-The Emiraty Dhiram (AED)
+-The Emiraty Dhiram (AED)
