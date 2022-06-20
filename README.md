@@ -20,7 +20,7 @@ https://real-estate-aed.netlify.app/
 
 - ## API
 
-RapidApi.com is the website, that has been used for all the APIs requests and provides all the related displayed information about the properties (pictures included).
+- RapidApi.com is the source website, that has been used for all the APIs requests and provides all the related displayed information about the properties (pictures included).
 
 - ## Homepage - Rent
 ![homepage1](https://user-images.githubusercontent.com/91989821/152847016-098626c8-1621-443c-a804-0eef6adabc09.png)
