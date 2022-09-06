@@ -11,7 +11,7 @@ https://real-estate-aed.netlify.app/
 - ## Programming Languages
 - JS
 <br>
-- ## Framework
+- ## Frameworks
 <br>
 - React.js (Frontend)
 <br>
