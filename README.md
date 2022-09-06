@@ -14,6 +14,7 @@ https://real-estate-aed.netlify.app/
 - ## Framework
 
 -React.js (Frontend)
+-Node.js (Backend)
 <br>
 -Next.js
 
